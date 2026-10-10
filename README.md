@@ -196,9 +196,6 @@ This is a personal hobby project. Automating third-party websites may violate th
 
 Python · Selenium · Chromium (headless) · IMAP/SMTP · Discord Webhooks · cron · `flock` · Raspberry Pi 4
 
-## 📄 License
-
-MIT. Fork it, break it, make it better.
 
 ---
 
